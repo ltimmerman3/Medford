@@ -1,0 +1,3 @@
+[submodule "BackgroundReading"]
+	path = BackgroundReading
+	url = https://github.com/ltimmerman3/BackgroundReading.git
